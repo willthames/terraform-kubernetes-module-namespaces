@@ -1,0 +1,5 @@
+resources:
+  - external-dns/namespace.yaml
+  - cert-manager/namespace.yaml
+  - public/namespace.yaml
+  - monitoring/namespace.yaml
